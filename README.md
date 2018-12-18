@@ -2,6 +2,10 @@
 
 The goal of this project is to track information from each lesson/meeting, share knowledge, do homeworks and check the results.
 
+python3 -m venv
+source venv/bin/activate
+pip install -r "requirements.txt"
+
 ## 2018/12/11
 * Python linters:
     * [pylint](https://readthedocs.org/projects/pylint/)
@@ -30,8 +34,14 @@ The goal of this project is to track information from each lesson/meeting, share
 
 ## 2018/12/25
 ### Topics
+* OOP
 ### HW
 
 ## 2019/01/08
 ### Topics
 ### HW
+
+
+cache (specific behavior in AWS Lambda)
+metaclass
+
