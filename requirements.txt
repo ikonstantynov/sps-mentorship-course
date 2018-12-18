@@ -1,0 +1,17 @@
+boto3==1.7.4
+redis==2.10.6
+psycopg2==2.7.6
+
+# testing
+pytest==3.10.0
+docker==3.5.1
+
+# mocks
+moto==1.3.7
+
+# typing
+mypy==0.641
+
+#lint
+flake8==3.6.0
+pylint==2.1.1
