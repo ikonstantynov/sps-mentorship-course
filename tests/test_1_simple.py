@@ -2,7 +2,7 @@
 Base example.
 
 for running tests:
-    python -m pytest tests/test_simple.py
+    python -m pytest tests/test_1_simple.py
 
 getting full diff:
     python -m pytest tests/test_1_simple.py -vv
@@ -47,7 +47,7 @@ def test_add():
 
 
 def test_exception():
-    with pytest.raises(TypeError):
+    with pytest.raises(TypeError) as exc_info:
         add(1, {'key': 'value'})
 
 

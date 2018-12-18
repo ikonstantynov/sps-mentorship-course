@@ -32,12 +32,12 @@ pip install -r "requirements.txt"
 * Compare isort and pylint
 * Run tests using pytest
 
-## 2018/12/25
+## 2019/01/08
 ### Topics
 * OOP
 ### HW
 
-## 2019/01/08
+## 2019/01/15
 ### Topics
 ### HW
 
