@@ -2,6 +2,9 @@ boto3==1.7.4
 redis==2.10.6
 psycopg2==2.7.6
 
+jupyter
+Markdown
+
 # testing
 pytest==3.10.0
 docker==3.5.1
